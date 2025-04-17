@@ -2,6 +2,6 @@ POST http://localhost:3001/api/notes
 Content-Type: application/json
 
 {
-    "Content": "Postman is what's up",
-    "Important": true
+    "content": "VS code rest client is pretty handy tool",
+    "important": true
 }
